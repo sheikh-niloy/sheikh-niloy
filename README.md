@@ -1,5 +1,4 @@
-### Hi there 👋, Hi! I'm Sheikh Najmul Hossain Niloy
-#### I am programmer
+### Hi there 👋, Hi! I'm Sheikh Najmul Hossain Niloy and I am a programmer
 ![I am programmer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 I make projects for fun and also to learn. I try to explore and master as many software and programming languages as I can because learning  to create different kinds of projects and make them execute successfully excites me the most.
