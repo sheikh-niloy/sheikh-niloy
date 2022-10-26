@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikh-niloy" alt="sheikh-niloy" /></a> </p>
 
-I make projects for fun and also to learn. I try to explore and master as many software and programming languages as I can because learning  to create different kinds of projects and make them execute successfully excites me the most.
+I make projects for fun and also to learn. I try to explore and master as many software and programming languages as I can. learning  to create different kinds of projects and make them execute successfully excites me the most.
 
 
 - 🔭 I’m currently working on Idaning.com & Sitechai.com 
