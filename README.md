@@ -39,6 +39,10 @@ learning  to create different kinds of projects and make them execute successful
 
 
 <h2 align="left"> 📈 My Github Stats:</h2>
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a>
 
-<p>&nbsp; <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></p>
+![](https://github-readme-stats.vercel.app/api?username=sheikh-niloy&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sheikh-niloy&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-niloy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+  
