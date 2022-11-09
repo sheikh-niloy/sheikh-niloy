@@ -10,12 +10,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikh-niloy" alt="sheikh-niloy" /></a> </p>
 
-I make projects for fun and also to learn. I try to explore and master as many software and programming languages as I can. learning  to create different kinds of projects and make them execute successfully excites me the most.
+I make projects for fun and also to learn. I try to explore and master as many software and programming languages as I can. <br>
+learning  to create different kinds of projects and make them execute successfully excites me the most.
+
+
 
 
 - 🔭 I’m currently working on Idaning.com & Sitechai.com 
 - 🌱 I’m currently learning Computer Science and engineering 
 - 📫 How to reach me: ceo@idaning.com 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +39,6 @@ I make projects for fun and also to learn. I try to explore and master as many s
 
 
 <h2 align="left"> 📈 My Github Stats:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikh-niloy&show_icons=true&locale=en&layout=compact" alt="sheikh-niloy" /></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikh-niloy&show_icons=true&locale=en" alt="sheikh-niloy" /></p>
+<p>&nbsp; <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></p>
