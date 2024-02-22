@@ -46,5 +46,9 @@ learning  to create different kinds of projects and make them execute successful
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sheikh-niloy&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-niloy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=sheikh-niloy&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sheikh-niloy&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-niloy&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 ---
   
