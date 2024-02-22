@@ -37,7 +37,8 @@ learning  to create different kinds of projects and make them execute successful
 
 <h2 align="left">Support Me:</h2>
 <!-- <p><a href="https://www.buymeacoffee.com/sheikhnajmX"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sheikhnajmX" /></a></p><br><br> -->
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sheikhnajmx) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/snhniloy) 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sheikhnajmx) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/snhniloy) 
 
 
 <h2 align="left"> 📈 My Github Stats:</h2>
