@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-niloy&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-niloy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikh-niloy" alt="sheikh-niloy" /></a> </p>
-
 I make projects for fun and also to learn. I try to explore and master as many software and programming languages as I can. <br>
 learning  to create different kinds of projects and make them execute successfully excites me the most.
 
