@@ -16,7 +16,7 @@ learning  to create different kinds of projects and make them execute successful
 
 - 🔭 I’m currently working on idaning.com & SiteChai.com 
 - 🌱 I’m currently learning Computer Science and engineering 
-- 📫 How to reach me: ceo@idaning.com, ceo@sitechai.com  
+- 📫 How to reach me: ceo@sitechai.com, ceo@idaning.com
 
 
 <h3 align="left">Connect with me:</h3>
