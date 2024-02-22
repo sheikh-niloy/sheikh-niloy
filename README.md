@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋, I'm Sheikh Najmul Hossain Niloy and I'm more then just a programmer</h2>
+<h2 align="center">Hi 👋, I'm Sheikh Najmul Hossain Niloy and I'm more than just a programmer</h2>
 <h3 align="center"></h3>
 
  ![I am programmer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) 
@@ -18,7 +18,7 @@ learning  to create different kinds of projects and make them execute successful
 
 - 🔭 I’m currently working on Idaning.com & Sitechai.com 
 - 🌱 I’m currently learning Computer Science and engineering 
-- 📫 How to reach me: ceo@idaning.com 
+- 📫 How to reach me: ceo@idaning.com, ceo@sitechai.com  
 
 
 <h3 align="left">Connect with me:</h3>
